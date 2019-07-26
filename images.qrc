@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/pedestrians/pedestrian1.png</file>
+        <file>images/pedestrians/pedestrian2.png</file>
+        <file>images/pedestrians/pedestrian3.png</file>
+        <file>images/streets/gray_crossing_street.png</file>
+        <file>images/streets/gray_division_street.png</file>
+        <file>images/streets/gray_straight_street.png</file>
+        <file>images/streets/gray_turn_street.png</file>
+        <file>images/streets/pavement.png</file>
+        <file>images/streets/pedestrian_crossing.png</file>
+        <file>images/cameras/camera.png</file>
+        <file>images/traffic_lights/green_light.png</file>
+        <file>images/traffic_lights/orange_light.png</file>
+        <file>images/traffic_lights/red_light.png</file>
+        <file>images/big_cars/big_car.png</file>
+        <file>images/big_cars/big_car1.png</file>
+        <file>images/big_cars/big_car2.png</file>
+        <file>images/big_cars/big_car3.png</file>
+        <file>images/small_cars/gray_car.png</file>
+        <file>images/small_cars/gray_car1.png</file>
+        <file>images/small_cars/police_car.png</file>
+        <file>images/small_cars/red_car.png</file>
+        <file>images/small_cars/yellow_car.png</file>
+        <file>images/small_cars/yellow_car1.png</file>
+    </qresource>
+</RCC>
