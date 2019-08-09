@@ -1,6 +1,8 @@
-# Realistic city traffic simulator 2D, with the ability to construct your own city, written in Qt C++. Application made for advanced C++ programming subject in school - ZPR (Zaawansowane programowanie w C++).
+# Realistic city traffic simulator 2D, with the ability to construct your own city, written in Qt C++. 
 
-Symulator ruchu miejskiego
+Application made for advanced C++ programming subject in school - ZPR (Zaawansowane programowanie w C++).
+
+Symulator ruchu miejskiego 2D, z możliwością tworzenia własnego miasta napisany w Qt C++ na przedmiocie w szkole - ZPR (Zaawansowane programowanie w C++).
 
 Instrukcja instalacji i uruchamiania aplikacji
 
